@@ -1,8 +1,11 @@
+![EsdrasDevBanner](https://github.com/user-attachments/assets/ec1d93fe-90a8-484d-b23b-707f17a33fb3)
+
 # 🧑‍💻 Esdras Asa
 
 **`Estudante de Engenharia de Software Comercial`**
 
 Atualmente, estou cursando **Engenharia de Software Comercial** na [Jala University](https://jalauniversity.com). 
+
 <br/> Sou apaixonado por tecnologia e adoro transformar ideias em soluções práticas.
 
 ---
